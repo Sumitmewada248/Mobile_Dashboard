@@ -1,0 +1,46 @@
+.hero{
+    margin-left: 200px;
+    width: 400px;
+    height: 100%;
+    align-items: center;
+    background-color: calc();
+    font-size: 18px;
+    font-weight: bold;
+    display: flex;
+    flex-direction: column;
+    width: 500px;
+    background-color:  rgb(101, 150, 166);
+    margin-top: 20px;
+    height: 100%;
+    padding-top: 50px;
+    padding-bottom: 20px;
+    border-radius: 50px;
+    box-shadow: 7px 7px #cb5555;
+    text-shadow: 0.6px 0.5px;
+
+}
+.hero input{
+
+
+    height: 35px;
+    border-radius: 20px;
+    padding-left: 10px;
+     /* border-top: transparent; */
+    border-left: transparent;
+    border-right: transparent;
+    
+    width: 250px;
+   
+}
+
+button{
+    font-weight: bold;
+    font-size: 20px;
+    border-radius: 10px;
+    height: 35px;
+    border-radius: 20px;
+    padding-left: 10px;
+border-top-left-radius: 5px;
+border-bottom-right-radius: 5px;
+    width: 100px;
+}

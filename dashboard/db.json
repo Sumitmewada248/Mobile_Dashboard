@@ -1,0 +1,74 @@
+{
+  "mobile": [
+    {
+      "Model": "J7",
+      "Company": "SAMSUNG",
+      "Price": "12000",
+      "Storage": "4-64",
+      "id": "f0cf"
+    },
+    {
+      "id": "42fe",
+      "Model": "iPhone15",
+      "Company": "APPLE",
+      "Price": "50000",
+      "Storage": "8-256"
+    },
+    {
+      "id": "09a3",
+      "Model": "Redmi 9i",
+      "Company": "REDMI",
+      "Price": "7000",
+      "Storage": "3-64"
+    },
+    {
+      "id": "72e3",
+      "Model": "iPhone15",
+      "Company": "Apple",
+      "Price": "50000",
+      "Storage": "16-512"
+    },
+    {
+      "id": "f89b",
+      "Model": "Motrola E13",
+      "Company": "Motorola",
+      "Price": "10000",
+      "Storage": "8-256+64"
+    },
+    {
+      "id": "7388",
+      "Model": "Vivo y18i",
+      "Company": "Vivo",
+      "Price": "15000",
+      "Storage": "6-256"
+    },
+    {
+      "id": "cfdc",
+      "Model": "Realme C63",
+      "Company": "Realme",
+      "Price": "12000",
+      "Storage": "4+4-256"
+    },
+    {
+      "id": "cbdd",
+      "Model": "POCO C61",
+      "Company": "POCO",
+      "Price": "7000",
+      "Storage": "4-64"
+    },
+    {
+      "id": "48ab",
+      "Model": "Vivo X100",
+      "Company": "Vivo",
+      "Price": "80000",
+      "Storage": "16-1tb"
+    },
+    {
+      "id": "93b6",
+      "Model": "iPhone16",
+      "Company": "Apple",
+      "Price": "150000",
+      "Storage": "16-1tb"
+    }
+  ]
+}

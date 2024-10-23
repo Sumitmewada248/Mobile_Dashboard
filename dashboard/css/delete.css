@@ -1,0 +1,46 @@
+
+#remo{
+    margin-left: 150px;
+    margin-top: 20px;
+    font-size: 20px;
+    color: #060217;
+    margin-bottom: 100px;
+}
+
+#remo table{
+    background-color: rgb(101, 150, 166);
+    border-top: 1px solid ;
+    border-left: 1px solid ;
+    box-shadow: 5px 3px 2px rgb(5, 88, 88);
+    border-radius: 20px;
+}
+
+#remo table th,td{
+padding: 20px;
+border-right: 1px solid ;
+}
+
+
+#remo table th{
+    font-weight: bolder;
+    font-size: 25px;
+
+}
+
+#remo table td{
+    font-weight: 400;
+    font-size: 20px;
+    border-top: 1px solid;
+    border-bottom: none;
+
+
+}
+#remo table #last{
+    border-right: none;
+}
+
+h1{
+    color: chocolate;
+    text-decoration: underline;
+    margin-left: 350px;
+}

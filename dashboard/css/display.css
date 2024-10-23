@@ -1,0 +1,48 @@
+#demo{
+    margin-left: 200px;
+    margin-top: 20px;
+    font-size: 20px;
+    color: #060217;
+    margin-bottom: 100px;
+}
+
+#demo table{
+    background-color: rgb(101, 150, 166);
+    border-top: 1px solid ;
+    border-left: 1px solid ;
+    box-shadow: 5px 3px 2px rgb(5, 88, 88);
+    border-radius: 20px;
+}
+
+#demo table th,td{
+padding: 20px;
+border-right: 1px solid ;
+}
+
+
+#demo table th{
+    font-weight: bolder;
+    font-size: 25px;
+}
+
+#demo table td{
+    font-weight: 400;
+    font-size: 20px;
+    border-top: 1px solid;
+    border-bottom: none;
+
+}
+#demo table #last{
+    border-right: none;
+    
+}
+ion-icon {
+    color: white;
+  }
+
+  h1{
+    margin-left: 340px;
+    margin-top: 20px;
+    color: chocolate;
+    text-decoration: underline;
+}

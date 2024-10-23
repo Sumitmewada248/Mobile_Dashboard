@@ -1,0 +1,100 @@
+#ed{
+    margin-left: 100px;
+    margin-top: 20px;
+    font-size: 20px;
+    color: #060217;
+    margin-bottom: 100px;
+}
+
+#ed table{
+    background-color: rgb(101, 150, 166);
+    border-top: 1px solid ;
+    border-left: 1px solid ;
+    box-shadow: 5px 3px 2px rgb(5, 88, 88);
+    border-radius: 20px;
+}
+
+#ed table th,td{
+padding: 20px;
+border-right: 1px solid ;
+}
+
+
+#ed table th{
+    font-weight: bolder;
+    font-size: 25px;
+}
+
+#ed table td{
+    font-weight: 400;
+    font-size: 20px;
+    border-top: 1px solid;
+    border-bottom: none;
+
+}
+#ed table #last{
+    border-right: none;
+    
+}
+ion-icon {
+    color: white;
+  }
+
+#show{
+    display: none;
+    position: relative;
+    left: 25%;
+    background-color: rgb(101, 150, 166);
+    box-shadow: 5px 3px 2px rgb(5, 88, 88);
+    width: 450px;
+    text-align: end;
+    padding: 20px;
+  font-size: 25px;
+  border-radius: 20px;
+ margin-top: 40px;
+ margin-bottom: 40px;
+
+input{
+    height: 35px;
+    border-radius: 20px;
+    text-align: center;
+  font-size: 15px;
+  box-shadow: 5px 3px 2px rgb(5, 88, 88);
+  border: none;
+}
+
+    #Model{
+        margin: 20px;
+    }
+    #Company{
+        margin: 20px;
+    }
+    #Price{
+        margin: 20px;
+    }
+    #Storage{
+        margin: 20px;
+    }
+
+    button{
+        width: 100px;
+        height: 35px;
+        border-radius: 20px;
+        margin-right: 30%;
+        background-color: #b7e8a2;
+        box-shadow: 5px 3px 2px rgb(5, 88, 88);
+        border: none;
+
+      &:hover{
+        background-color: #9755d9;
+        color: #fff;
+      }
+    }
+}
+
+
+h1{
+    color: chocolate;
+    text-decoration: underline;
+    margin-left: 340px;
+}
